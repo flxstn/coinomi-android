@@ -300,7 +300,7 @@ public class Constants {
         COINS_BLOCK_EXPLORERS.put(CoinID.GCR_MAIN.getCoinType(), "https://chainz.cryptoid.info/gcr/tx.dws?%s");
         COINS_BLOCK_EXPLORERS.put(CoinID.POTCOIN_MAIN.getCoinType(), "https://chainz.cryptoid.info/pot/tx.dws?%s");
         COINS_BLOCK_EXPLORERS.put(CoinID.GULDEN_MAIN.getCoinType(), "https://explorer.gulden.com/#/transaction/%s");
-        COINS_BLOCK_EXPLORERS.put(CoinID.AURORACOIN_MAIN.getCoinType(), "http://insight.auroracoin.io/tx/%s");
+        COINS_BLOCK_EXPLORERS.put(CoinID.AURORACOIN_MAIN.getCoinType(), "http://insight.auroracoin.is/tx/%s");
         COINS_BLOCK_EXPLORERS.put(CoinID.BATACOIN_MAIN.getCoinType(), "https://chainz.cryptoid.info/bta/tx.dws?%s");
         COINS_BLOCK_EXPLORERS.put(CoinID.ASIACOIN_MAIN.getCoinType(), "https://chainz.cryptoid.info/ac/tx.dws?%s.htm");
         COINS_BLOCK_EXPLORERS.put(CoinID.EGULDEN_MAIN.getCoinType(), "https://chainz.cryptoid.info/efl/tx.dws?%s");
